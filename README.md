@@ -6,7 +6,7 @@
 
 
 
-## What is learned 
+## What is learned :space_invader:
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
@@ -22,4 +22,4 @@
 * Learn to use Core Location to get the current location from the phone GPS. 
 
 
-![End Banner](Documentation/Clima.png)
+<img src="Documentation/Clima.png" width="300">
